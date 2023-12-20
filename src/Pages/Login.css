@@ -1,0 +1,19 @@
+.widget
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 160px;
+    margin-left: 550px;
+    width: 450px;
+    height: 450px;
+    background-color:rgb(250, 249, 248);
+    border-radius: 25px;
+    opacity: 90%;
+    filter: drop-shadow(10px 10px 4px rgb(163, 162, 162));
+}
+input
+{
+    color: rgb(234, 72, 72);
+}
